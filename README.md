@@ -2,6 +2,8 @@
 
 Web Programming with Python and JavaScript
 
+Visit site here https://mattthehat.github.io/project0/
+
 ## Simple HTML site for CS50 Project 0
 
 The site comprises of 4 html pages and built with Boostrap 4 framework with custom styles
