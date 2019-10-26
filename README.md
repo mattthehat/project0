@@ -85,7 +85,9 @@ All images are from Pexcels with exception of the map which came from pixabay (e
 
 The CSS was built using SASS/SCSS compiler
 
+## Content 
 
+Pleae note, the news and events listed on the site are entirely ficticious adn so are the dates.
 
 
 
